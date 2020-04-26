@@ -1,0 +1,14 @@
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.csprojAssemblyReference.cache
+C:\Users\Tanmay\source\repos\Bartender\Bartender\bin\Debug\netcoreapp2.1\Bartender.deps.json
+C:\Users\Tanmay\source\repos\Bartender\Bartender\bin\Debug\netcoreapp2.1\Bartender.runtimeconfig.json
+C:\Users\Tanmay\source\repos\Bartender\Bartender\bin\Debug\netcoreapp2.1\Bartender.runtimeconfig.dev.json
+C:\Users\Tanmay\source\repos\Bartender\Bartender\bin\Debug\netcoreapp2.1\Bartender.dll
+C:\Users\Tanmay\source\repos\Bartender\Bartender\bin\Debug\netcoreapp2.1\Bartender.pdb
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.csproj.CoreCompileInputs.cache
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.RazorAssemblyInfo.cache
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.RazorAssemblyInfo.cs
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.AssemblyInfoInputs.cache
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.AssemblyInfo.cs
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.RazorTargetAssemblyInfo.cache
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.dll
+C:\Users\Tanmay\source\repos\Bartender\Bartender\obj\Debug\netcoreapp2.1\Bartender.pdb
